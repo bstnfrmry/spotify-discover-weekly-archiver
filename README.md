@@ -1,2 +1,3 @@
-# spotify-discover-weekly-archiver
+# Spotify Discover Weekly Archiver
+
 Save your Spotify Discover Weekly playlists
